@@ -9,6 +9,10 @@ public class TokoBuku {
     }
 
     public static void main(String[] args) {
+        // Catatan: Menjalankan program keranjang belanja polimorfisme
+
+        // (sisa kode di bawahnya biarkan tetap seperti biasa)
+
         // Ketentuan 6: Uji coba instansiasi abstract class lalu dikomentari
         // Buku b = new Buku("X", "Y", 1);
         // Pesan error: java: Buku is abstract; cannot be instantiated
